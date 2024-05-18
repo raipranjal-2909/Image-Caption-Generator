@@ -9,3 +9,6 @@ Automatic generation of image captions
 Pre-trained models for quick setup and testing
 Support for custom datasets
 Evaluation metrics to measure caption quality
+
+
+DATASET FOR THE CURRENT PROJECT ON WHICH WE WORK IS FLICKR-8K.YOU CAN DOWNLOAD THIS DATASET FROM https://www.kaggle.com/datasets/adityajn105/flickr8k
